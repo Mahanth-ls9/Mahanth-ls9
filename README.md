@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahanth-ls9
+
 - <h1 align="center">Hi 👋, I'm Mahanth</h1>
 - 👀 I’m interested in Life 
 - 🌱 I’m currently learning Full stack 
